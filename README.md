@@ -69,7 +69,7 @@ SQL queries were used to perform:
 - Top selling products analysis
 - Customer purchase frequency analysis
 
-Database operations were performed using **PostgreSQL and pgAdmin 4**.
+Database operations were performed using **PostgreSQL.
 
 ---
 
